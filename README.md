@@ -1,4 +1,4 @@
-<h1 align="center">Algoritmos Lógica de programacao Javascript </h1>
+<h1 align="center">Algoritmos Lógica de programação Javascript </h1>
 
 <p align="center">Rocketseat, escola de desenvolvedores<br/>
 
