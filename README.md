@@ -39,4 +39,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-<p align="center"> Feito com ♥ Rocketseat :wave: [Acesse a comunidade!](https://www.rocketseatcom.br/)</p>
+<p align="center"> Feito com ♥ Rocketseat :wave: [Acesse a comunidade!](https://www.rocketseat.com.br/)</p>
